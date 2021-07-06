@@ -363,7 +363,7 @@ if(frameCount >1500 && score !==45){
 
 }
 
-if(score >1){
+if(score >45){
 level2()
 
 
